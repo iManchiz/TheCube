@@ -1,5 +1,5 @@
 🎲 The Cube
-The Cube es una experiencia inmersiva de escape room inspirada en el enigmático juego Exit8. Sumérgete en un bucle temporal lleno de secretos y desafíos, donde cada detalle cuenta para encontrar la salida.
+Es una experiencia inmersiva de escape room inspirada en el enigmático juego Exit8. Sumérgete en un bucle temporal lleno de secretos y desafíos, donde cada detalle cuenta para encontrar la salida.
 
 🎮 Descripción
 En The Cube, los jugadores exploran un misterioso cubo en el que el tiempo parece estar atrapado en un ciclo infinito. A medida que avanzas, descubrirás pistas, y desentrañarás los secretos del bucle temporal.
