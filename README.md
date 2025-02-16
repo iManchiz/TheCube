@@ -1,5 +1,5 @@
 ⬇️ DESCARGA ⬇️<br>
-https://sergiojimenezdev.itch.io/the-cube
+[Click aquí](https://sergiojimenezdev.itch.io/the-cube)
 
 🎲 The Cube<br>
 Es una experiencia inmersiva de escape room inspirada en el enigmático juego Exit8. Sumérgete en un bucle temporal lleno de secretos y desafíos, donde cada detalle cuenta para encontrar la salida.
@@ -27,7 +27,7 @@ Duplicaciones Estratégicas: Reutilización eficiente de elementos del escenario
 ⚠️ Disclaimer<br>
 El código fuente de este repositorio se proporciona únicamente con fines informativos y para permitir la exploración de la arquitectura y el funcionamiento de The Cube.
 No incluye los assets ni otros recursos necesarios para ejecutar el juego.
-Para jugar puedes descargar la versión completa en este enlace: https://sergiojimenezdev.itch.io/the-cube
+Para jugar puedes descargar la versión completa en [este enlace](https://sergiojimenezdev.itch.io/the-cube)
 
 📧 Contacto<br>
 Para preguntas, sugerencias o feedback, puedes contactarme por email:
