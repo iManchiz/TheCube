@@ -27,7 +27,7 @@ Duplicaciones Estratégicas: Reutilización eficiente de elementos del escenario
 ⚠️ Disclaimer<br>
 El código fuente de este repositorio se proporciona únicamente con fines informativos y para permitir la exploración de la arquitectura y el funcionamiento de The Cube.
 No incluye los assets ni otros recursos necesarios para ejecutar el juego.
-para jugar puedes descargar la versión completa en este enlace: https://sergiojimenezdev.itch.io/the-cube
+Para jugar puedes descargar la versión completa en este enlace: https://sergiojimenezdev.itch.io/the-cube
 
 📧 Contacto<br>
 Para preguntas, sugerencias o feedback, puedes contactarme por email:
