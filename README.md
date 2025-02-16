@@ -1,3 +1,6 @@
+⬇️ DESCARGA ⬇️<br>
+https://sergiojimenezdev.itch.io/the-cube
+
 🎲 The Cube<br>
 Es una experiencia inmersiva de escape room inspirada en el enigmático juego Exit8. Sumérgete en un bucle temporal lleno de secretos y desafíos, donde cada detalle cuenta para encontrar la salida.
 
@@ -20,6 +23,11 @@ Iluminación Dinámica y Baked: Combinación de luces dinámicas y estáticas pa
 LOD (Level of Detail): Ajuste de niveles de detalle en modelos para mejorar la tasa de FPS.
 Baking de Sombras: Reducción de la carga en tiempo real mediante sombras prebakeadas.
 Duplicaciones Estratégicas: Reutilización eficiente de elementos del escenario para optimización de memoria.
+
+⚠️ Disclaimer<br>
+El código fuente de este repositorio se proporciona únicamente con fines informativos y para permitir la exploración de la arquitectura y el funcionamiento de The Cube.
+No incluye los assets ni otros recursos necesarios para ejecutar el juego.
+para jugar al juego puedes descargar la versión completa en este enlace: https://sergiojimenezdev.itch.io/the-cube
 
 📧 Contacto<br>
 Para preguntas, sugerencias o feedback, puedes contactar con el desarrollador:
